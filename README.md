@@ -1,2 +1,2 @@
 # aut-num-form
-AFRINIC Managing IP resources
+Managing IP resources
